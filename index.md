@@ -79,7 +79,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Retama Design
+      value: Retama Studio
     - name: 'twitter:description'
       value: Diseños hechos con cariño y buena vibra
     - name: 'twitter:image'
