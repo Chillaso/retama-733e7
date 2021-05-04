@@ -83,7 +83,7 @@ seo:
     - name: 'twitter:title'
       value: Retama Design
     - name: 'twitter:description'
-      value: The preview of the Planty theme
+      value: Camisetas y moda hecha a mano
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
