@@ -44,7 +44,8 @@ $theme_palettes: (
 
 // Font family
 @font_face {
-    font-family: 'HoneyAndRaspberries'
+    font-family: 'HoneyAndRaspberries';
+    src: url('../fonts/honeyandraspberries.ttf'); format('truetype');
 }
 $font_family_primary:   'Open Sans', sans-serif;
 $font_family_secondary: 'Lato', sans-serif;
