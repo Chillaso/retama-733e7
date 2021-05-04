@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '7'
-price: '18.90'
+price: '8'
 title: Sed consectetur
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/Camiseta-Marine Journey-Azul.jpg
