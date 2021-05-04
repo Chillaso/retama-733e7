@@ -1,5 +1,5 @@
 ---
-title: CAMISETAS
+title: BOLSAS
 layout: category
 order: 2
 seo:
