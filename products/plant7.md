@@ -2,7 +2,7 @@
 layout: product
 id: '7'
 price: '8'
-title: Sed consectetur
+title: MARINE JOURNEY
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/Camiseta-Marine Journey-Azul.jpg
 default_original_image: images/plant7-lg.jpg
