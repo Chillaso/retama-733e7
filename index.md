@@ -72,7 +72,7 @@ seo:
       value: Retama Design
       keyName: property
     - name: 'og:description'
-      value: The preview of the Planty theme
+      value: Camisetas y moda hecha a mano
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
