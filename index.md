@@ -60,7 +60,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Retama Design
+  title: Retama Studio
   description: Diseños hechos con cariño y buena vibra
   extra:
     - name: 'og:type'
