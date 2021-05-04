@@ -45,7 +45,7 @@ $theme_palettes: (
 // Font family
 @font-face {
 	font-family: 'HoneyAndRaspberries';
-	src: url('honeyandraspberries.ttf') format('truetype');
+	src: url('../fonts/honeyandraspberries.ttf') format('truetype');
 }
 
 $font_family_primary: 'HoneyAndRaspberries';
