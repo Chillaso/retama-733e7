@@ -81,7 +81,7 @@ seo:
     - name: 'twitter:title'
       value: Retama Design
     - name: 'twitter:description'
-      value: Camisetas y moda hecha a mano
+      value: Diseños hechos con cariño y buena vibra
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
