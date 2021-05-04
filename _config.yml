@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-favicon: images/favicon.png
+favicon: images/Logo círculo azul.png
 logo_dark: images/Logo círculo azul.png
 logo_light: images/Logo círculo azul.png
 hamburger_background_image: /images/leaf-light-grey.svg
