@@ -2,7 +2,7 @@
 layout: product
 id: '5'
 price: '8'
-title: Vestibulum eget
+title: FRIDA CATLO
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
