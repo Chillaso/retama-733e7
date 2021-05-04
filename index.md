@@ -63,7 +63,7 @@ sections:
       arrow: true
 seo:
   title: Retama Design
-  description: The preview of the Planty theme
+  description: Camisetas y moda hechas a mano
   extra:
     - name: 'og:type'
       value: website
