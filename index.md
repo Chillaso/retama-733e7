@@ -8,7 +8,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: |
-      # Retama Design
+      # Retama Studio
 
       Diseños hechos con cariño y buena vibra
     actions:
