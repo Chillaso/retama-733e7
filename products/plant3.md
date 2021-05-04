@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
+price: '8'
 title: NATURAL FEELINGS
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/Camiseta-Natural heart-Burdeos-Bolsillo.jpg
