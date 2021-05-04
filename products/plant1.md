@@ -1,7 +1,6 @@
 ---
 layout: product
 id: '1'
-price: '49.40'
 title: WILD TREE
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
