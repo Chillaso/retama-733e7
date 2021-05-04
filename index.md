@@ -67,7 +67,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Retama Design
+      value: Retama Studio
       keyName: property
     - name: 'og:description'
       value: Diseños hechos con cariño y buena vibra
