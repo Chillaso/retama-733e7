@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
-price: 8€
+price: '8'
 ---
 
 # Nulla suscipit
