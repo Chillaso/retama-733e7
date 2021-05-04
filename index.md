@@ -61,7 +61,7 @@ sections:
       arrow: true
 seo:
   title: Retama Design
-  description: Camisetas y moda hechas a mano
+  description: Diseños hechos con cariño y buena vibra
   extra:
     - name: 'og:type'
       value: website
