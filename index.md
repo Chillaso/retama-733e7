@@ -70,7 +70,7 @@ seo:
       value: Retama Design
       keyName: property
     - name: 'og:description'
-      value: Camisetas y moda hecha a mano
+      value: Diseños hechos con cariño y buena vibra
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
