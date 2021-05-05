@@ -34,7 +34,7 @@
             max-width: 720px;
             font-size: $spacing--unit*8;
             font-weight: bold;
-            @include smaller-than-tablet { font-size: $font_size_xxlarge; }
+            @include smaller-than-tablet { font-size: $font_size_xxxlarge; }
         }
     }
 
