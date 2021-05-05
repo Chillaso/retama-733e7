@@ -1,31 +1,31 @@
 ---
-title: Plants from Europe
+title: BOLSAS
 layout: category
-order: 3
+order: 2
 seo:
-  title: Plants from Europe
-  description: This is the store page
+  title: Bolsas | Retama design
+  description: Bolsas | Retama design
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Plants from Europe
+      value: Bolsas | Retama design
       keyName: property
     - name: 'og:description'
-      value: This is the store page
+      value: Bolsas | Retama design
       keyName: property
     - name: 'og:image'
-      value: images/plant4-lg.jpg
+      value: images/plant2-lg.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Plants from Europe
+      value: Bolsas | Retama design
     - name: 'twitter:description'
-      value: This is the store page
+      value: Bolsas | Retama design
     - name: 'twitter:image'
-      value: images/plant4-lg.jpg
+      value: images/plant2-lg.jpg
       relativeUrl: true
 ---

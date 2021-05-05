@@ -9,10 +9,10 @@ sections:
     title: Best sellers
     icon: true
     featured_products:
-      - products/plant1.md
-      - products/plant3.md
-      - products/plant5.md
-      - products/plant7.md
+      - products/wildtree.md
+      - products/natural-feelings.md
+      - products/frida-catlo.md
+      - products/marine-journey.md
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer

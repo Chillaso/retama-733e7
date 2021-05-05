@@ -3,8 +3,8 @@ title: CAMISETAS
 layout: category
 order: 1
 seo:
-  title: Big plants
-  description: This is the store page
+  title: Camisetas | Retama design
+  description: Camisetas | Retama design
   extra:
     - name: 'og:type'
       value: website
@@ -13,10 +13,10 @@ seo:
       value: Big plants
       keyName: property
     - name: 'og:description'
-      value: This is the store page
+      value: Camisetas | Retama design
       keyName: property
     - name: 'og:image'
-      value: images/plant1-lg.jpg
+      value: images/Camiseta-Wildtree-Negro.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -24,8 +24,8 @@ seo:
     - name: 'twitter:title'
       value: Big plants
     - name: 'twitter:description'
-      value: This is the store page
+      value: Camisetas | Retama design
     - name: 'twitter:image'
-      value: images/plant1-lg.jpg
+      value: images/Camiseta-Wildtree-Negro.jpg
       relativeUrl: true
 ---

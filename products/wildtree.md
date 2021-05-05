@@ -10,7 +10,7 @@ default_thumbnail_image: images/Camiseta-Wildtree-Negro.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
-category: category/bigplants.md
+category: category/tees.md
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
