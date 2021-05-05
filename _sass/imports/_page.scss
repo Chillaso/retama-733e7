@@ -38,8 +38,8 @@ main.content {
       max-height: 1000px;
       object-fit: cover;
       @include smaller-than-tablet {
-        max-height: 400px;
-        max-height: 400px;
+        max-height: 800px;
+        max-height: 800px;
         min-width: 100%;
         max-width: 0;
       }
