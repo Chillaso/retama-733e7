@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 favicon: images/Logo círculo azul.png
 logo_dark: images/Logo círculo azul.png
-logo_light: images/Logo círculo azul.png
+logo_light: images/LOGO circulo-04.png
 hamburger_background_image: /images/leaf-light-grey.svg
 bg_image_primary: /images/header.jpg
 bg_image_primary_opacity: 60
