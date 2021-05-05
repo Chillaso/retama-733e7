@@ -34,9 +34,9 @@ main.content {
     }
 
     picture {
-      max-width: 5000px !important;
-      max-height: 5000px !important;
-      object-fit: none !important;
+      max-width: 500px;
+      max-height: 500px;
+      object-fit: cover;
       @include smaller-than-tablet {
         max-height: 400px;
         max-height: 400px;
