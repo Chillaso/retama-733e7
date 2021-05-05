@@ -38,6 +38,7 @@
   &--light {
     color: $color_default;
     border-color: $color_default;
+    border: 2px solid $color_active;
   }
 
   &--light-filled {
