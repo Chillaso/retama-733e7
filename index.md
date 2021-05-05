@@ -6,7 +6,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/FONDO HOME_Mesa de trabajo 1.jpg
-    background_image_opacity: 100
+    background_image_opacity: 50
     content: |
       # Retama Studio
     hero_subtitle: Diseños hechos con cariño y buena vibra
