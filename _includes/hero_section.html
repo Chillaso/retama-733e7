@@ -7,9 +7,7 @@
     <div class="hero__bg-img" style="background-image: url('{{ section.background_image | relative_url }}'); opacity: {{ bg_img_opacity }};"></div>
     {% endif %}
     <div class="hero__title">{{ section.content | markdownify }}</div>
-    <div class="hero__subtitle">
-    {{ section.hero_subtitle | markdownify }}
-    </div>
+    <div class="hero__subtitle">{{ section.hero_subtitle | markdownify }}</div>
     <div class="hero__links link-group">
       {% for action in section.actions %}
         {% assign action_style = action.style | default: 'primary' %}
