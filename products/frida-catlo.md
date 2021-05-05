@@ -6,8 +6,8 @@ title: FRIDA CATLO
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/Camiseta-FridaCatlo-Blanco.jpg
-default_original_image: images/plant5-lg.jpg
+default_thumbnail_image: images/c_frida-catlo_white.jpg
+default_original_image: images/c_frida-catlo_white.jpg
 featured: true
 order: 5
 category: category/tees.md
@@ -25,7 +25,7 @@ seo:
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
       keyName: property
     - name: 'og:image'
-      value: images/plant5-lg.jpg
+      value: images/c_frida-catlo_white.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
     - name: 'twitter:image'
-      value: images/plant5-lg.jpg
+      value: images/c_frida-catlo_white.jpg
       relativeUrl: true
 ---
 

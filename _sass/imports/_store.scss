@@ -3,6 +3,7 @@
         font-family: $font_family_primary;
         font-size: $font_size_xlarge;
         line-height: 60px;
+        margin-top: 50px;
         @include smaller-than-tablet { 
             font-size: $font_size_large; 
             line-height: 42px;
