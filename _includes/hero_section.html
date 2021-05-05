@@ -8,7 +8,7 @@
     {% endif %}
     <div class="hero__title">{{ section.content | markdownify }}</div>
     <h2 class="content__row-title{% assign light_title_is_not_empty = section.light_title | is_not_empty %}{% if light_title_is_not_empty %} content__row-title--light{% endif %}">
-    
+    {{ section.hero_subtitle | markdownify }}
     </h2>
     <div class="hero__links link-group">
       {% for action in section.actions %}
