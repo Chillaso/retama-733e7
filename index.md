@@ -9,8 +9,6 @@ sections:
     background_image_opacity: 80
     content: |
       # Retama Studio
-
-      Diseños hechos con cariño y buena vibra
     actions:
       - title: Todos los productos
         url: /store
