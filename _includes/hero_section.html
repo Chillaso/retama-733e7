@@ -7,7 +7,7 @@
     <div class="hero__bg-img" style="background-image: url('{{ section.background_image | relative_url }}'); opacity: {{ bg_img_opacity }};"></div>
     {% endif %}
     <div class="hero__title">{{ section.content | markdownify }}</div>
-    <h2 class="content__row-title{% assign light_title_is_not_empty = section.light_title | is_not_empty %}{% if light_title_is_not_empty %} content__row-title--light{% endif %}">
+    <h2 class="hero__subtitle">
     {{ section.hero_subtitle | markdownify }}
     </h2>
     <div class="hero__links link-group">
