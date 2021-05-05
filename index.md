@@ -9,7 +9,7 @@ sections:
     background_image_opacity: 80
     content: |
       # Retama Studio
-    subtitle: 
+    subtitle: Diseños hechos a mano 
     actions:
       - title: Todos los productos
         url: /store
