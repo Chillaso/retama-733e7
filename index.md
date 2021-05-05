@@ -6,7 +6,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/FONDO HOME_Mesa de trabajo 1.jpg
-    background_image_opacity: 65
+    background_image_opacity: 80
     content: |
       # Retama Studio
 
