@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/FONDO HOME_Mesa de trabajo 1.jpg
+    background_image: images/header.jpg
     background_image_opacity: 50
     content: |
       # Retama Studio
@@ -51,8 +51,8 @@ sections:
     section_id: promotion_section
     title: A new home interior for summer
     subtitle: from $149.99
-    image: images/FOTO-STUDIO-2.jpg
-    background_image: images/FONDO-RETAMA.jpg
+    image: images/background_contact2.jpg
+    background_image: images/background_contact.jpg
     cta:
       title: Discover
       url: /store

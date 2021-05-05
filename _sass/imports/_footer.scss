@@ -5,7 +5,7 @@
   &__container { 
       @include container-item-properties;
       padding-top: 50px;
-      padding-bottom: 50px; 
+      padding-bottom: 25px; 
       display: flex;
   }
 
@@ -45,9 +45,20 @@
       display: flex;
       align-items: center;
       color: $color_medium;
-      //font-weight: bold;
       margin-left: auto;
       line-height: 1.2;
+      font-size: 80%;
+      word-spacing: 3px;
+  }
+
+  &__legal-notice_info {
+      float: right;
+      align-items: center;
+      color: $color_medium;
+      margin-right: 3%;
+      line-height: 1.2;
+      font-size: 50%;
+      word-spacing: 3px;
   }
 }
 
