@@ -9,6 +9,7 @@ sections:
     background_image_opacity: 80
     content: |
       # Retama Studio
+    subtitle: 
     actions:
       - title: Todos los productos
         url: /store
