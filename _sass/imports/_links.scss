@@ -26,9 +26,9 @@
   }
 
   &--filled {
-    background-color: $color_corporative;
+    background-color: $color_corporative_red;
     color: $color_default;  
-    border: 2px solid $color_corporative;
+    border: 2px solid $color_corporative_red;
   }
 
   &--borderless {
