@@ -4,7 +4,7 @@ layout: category
 order: 3
 seo:
   title: Bolsas | Retama design
-  description: Bolsas | Retama design
+  description: Diseños echos con cariño y buena vibra
   extra:
     - name: 'og:type'
       value: website
@@ -13,7 +13,7 @@ seo:
       value: Bolsas | Retama design
       keyName: property
     - name: 'og:description'
-      value: Bolsas | Retama design
+      value: Diseños echos con cariño y buena vibra
       keyName: property
     - name: 'og:image'
       value: images/bags/b_bee-free_white.jpg
@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Bolsas | Retama design
     - name: 'twitter:description'
-      value: Bolsas | Retama design
+      value: Diseños echos con cariño y buena vibra
     - name: 'twitter:image'
       value: images/bags/b_bee-free_white.jpg
       relativeUrl: true

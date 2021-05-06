@@ -10,22 +10,22 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Big plants
-      keyName: property
-    - name: 'og:description'
       value: Camisetas | Retama design
       keyName: property
+    - name: 'og:description'
+      value: Diseños echos con cariño y buena vibra
+      keyName: property
     - name: 'og:image'
-      value: images/Camiseta-Wildtree-Negro.jpg
+      value: images/tees/t_wildtree_black.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:title'
+      value: Camisetas | Retama design
       value: Big plants
     - name: 'twitter:description'
-      value: Camisetas | Retama design
+      value: Diseños echos con cariño y buena vibra
     - name: 'twitter:image'
-      value: images/Camiseta-Wildtree-Negro.jpg
+      value: images/tees/t_wildtree_black.jpg
       relativeUrl: true
 ---
