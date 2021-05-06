@@ -24,7 +24,7 @@ sections:
       - products/tees/wildtree.md
       - products/tees/natural-feelings.md
       - products/tees/frida-catlo.md
-      - products/tees/marine-journey.md
+      - products/bags/bee-free.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
