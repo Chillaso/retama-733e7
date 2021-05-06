@@ -4,8 +4,8 @@ id: '7'
 price: '8'
 title: MARINE JOURNEY
 description: Fusce sed tortor id diam rhoncus accumsan.
-default_thumbnail_image: images/c_marine-journey_blue.jpg
-default_original_image: images/c_marine-journey_blue.jpg
+default_thumbnail_image: images/tees/c_marine-journey_blue.jpg
+default_original_image: images/tees/c_marine-journey_blue.jpg
 order: 7
 category: category/tees.md
 seo:
@@ -22,7 +22,7 @@ seo:
       value: Fusce sed tortor id diam rhoncus accumsan
       keyName: property
     - name: 'og:image'
-      value: images/c_marine-journey_blue.jpg
+      value: images/tees/c_marine-journey_blue.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:description'
       value: Fusce sed tortor id diam rhoncus accumsan
     - name: 'twitter:image'
-      value: images/c_marine-journey_blue.jpg
+      value: images/tees/c_marine-journey_blue.jpg
       relativeUrl: true
 ---
 

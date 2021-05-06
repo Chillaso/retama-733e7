@@ -4,8 +4,8 @@ id: '3'
 price: '8'
 title: NATURAL FEELINGS
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/c_natural-hearth-bolsillo_red.jpg
-default_original_image: images/c_natural-hearth-bolsillo_red.jpg
+default_thumbnail_image: images/tees/c_natural-hearth-bolsillo_red.jpg
+default_original_image: images/tees/c_natural-hearth-bolsillo_red.jpg
 featured: true
 order: 3
 category: category/tees.md
@@ -23,7 +23,7 @@ seo:
       value: 'Nulla non pretium metus, vitae finibus lectus'
       keyName: property
     - name: 'og:image'
-      value: images/c_natural-hearth-bolsillo_red.jpg
+      value: images/tees/c_natural-hearth-bolsillo_red.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:description'
       value: 'Nulla non pretium metus, vitae finibus lectus'
     - name: 'twitter:image'
-      value: images/c_natural-hearth-bolsillo_red.jpg
+      value: images/tees/c_natural-hearth-bolsillo_red.jpg
       relativeUrl: true
 ---
 
