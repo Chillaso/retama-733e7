@@ -7,7 +7,7 @@ description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/tees/t_natural-hearth-bolsillo_red.jpg
 default_original_image: images/tees/t_natural-hearth-bolsillo_red.jpg
 featured: true
-order: 3
+order: 5
 category: category/tees.md
 seo:
   title: Curabitur eu tempor

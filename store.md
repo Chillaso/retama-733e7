@@ -9,10 +9,10 @@ sections:
     title: Best sellers
     icon: true
     featured_products:
-      - products/wildtree.md
-      - products/natural-feelings.md
-      - products/frida-catlo.md
-      - products/marine-journey.md
+      - products/tees/wildtree.md
+      - products/tees/natural-feelings.md
+      - products/tees/frida-catlo.md
+      - products/bags/bee-free.md
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer

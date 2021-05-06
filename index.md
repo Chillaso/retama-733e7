@@ -23,7 +23,7 @@ sections:
     featured_products:
       - products/tees/wildtree.md
       - products/tees/natural-feelings.md
-      - products/tees/frida-catlo.md
+      - products/hoodies/wildtree.md
       - products/bags/bee-free.md
   - type: featured_categories_section
     section_id: featured_categories_section
@@ -49,12 +49,12 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/background_contact2.jpg
-    background_image: images/background_contact.jpg
+    title: ¿Tienes alguna pregunta?
+    subtitle: "Contacta con nosotros:"
+    image: images/promo.jpg
+    background_image: images/leaf.svg
     cta:
-      title: Discover
+      title: Conctacta
       url: /store
       style: secondary
       arrow: true
