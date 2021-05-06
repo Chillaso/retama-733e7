@@ -6,7 +6,7 @@ sections:
     section_id: store_section
   - type: featured_products_section
     section_id: featured_products_section
-    title: Best sellers
+    title: Más vendidos
     icon: true
     featured_products:
       - products/tees/wildtree.md

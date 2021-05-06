@@ -21,7 +21,7 @@ layout: body
                     <svg width="20" height="10" viewBox="0 0 20 10" xmlns="http://www.w3.org/2000/svg">
                         <path d="M2.739 4.309h17.011v1.284h-17.11l3.43 3.396-0.895 0.886-4.924-4.875 4.924-4.875 0.895 0.886-3.331 3.298z"></path>
                     </svg>
-                    see all products
+                    Ver todos los productos
                 </a>
             </div>
             <figure class="product__figure">
@@ -41,12 +41,14 @@ layout: body
                     </h2>
                 {% endif %}
                 <div class="product__price">
-                    ${{ page.price }}
+                    {{ page.price }}€
                 </div>
 
                 <article class="product__description">
                     {{ page.description }}
                 </article>
+
+                {% include color_selector.html product_page=page %}
 
                 {% include buy_button.html product_page=page %}
             </div>
@@ -55,7 +57,7 @@ layout: body
         {% assign category_is_not_empty = page.category | is_not_empty %}
         {% if category_is_not_empty %}
             <section class="content__row">
-                <h2 class="content__row-title">Related</h2>
+                <h2 class="content__row-title">Relacionados</h2>
                 {% assign product_pages = '/products' | get_pages | sort: 'order' | where_exp: "item", "item.id != page.id" %}
                 {% assign category_page = page.category | get_page_by_file_path %}
 
@@ -67,6 +69,6 @@ layout: body
             <svg width="20" height="10" viewBox="0 0 20 10" xmlns="http://www.w3.org/2000/svg">
                 <path d="M2.739 4.309h17.011v1.284h-17.11l3.43 3.396-0.895 0.886-4.924-4.875 4.924-4.875 0.895 0.886-3.331 3.298z"></path>
             </svg>
-            see all products
+            Ver todos los productos
         </a>
     </main>
