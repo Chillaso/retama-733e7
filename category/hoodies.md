@@ -1,7 +1,7 @@
 ---
 title: SUDADERAS
 layout: category
-order: 1
+order: 2
 seo:
   title: Sudaderas | Retama design
   description: Sudaderas | Retama design

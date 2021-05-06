@@ -1,7 +1,7 @@
 ---
 title: BOLSAS
 layout: category
-order: 2
+order: 3
 seo:
   title: Bolsas | Retama design
   description: Bolsas | Retama design
