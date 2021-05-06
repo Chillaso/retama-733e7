@@ -16,7 +16,7 @@ seo:
       value: Bolsas | Retama design
       keyName: property
     - name: 'og:image'
-      value: images/plant2-lg.jpg
+      value: images/bags/b_bee-free_white.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -26,6 +26,6 @@ seo:
     - name: 'twitter:description'
       value: Bolsas | Retama design
     - name: 'twitter:image'
-      value: images/plant2-lg.jpg
+      value: images/bags/b_bee-free_white.jpg
       relativeUrl: true
 ---
