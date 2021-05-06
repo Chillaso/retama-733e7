@@ -30,6 +30,7 @@ sections:
     featured_categories:
       - category/tees.md
       - category/bags.md
+      - category/hoodies.md
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
