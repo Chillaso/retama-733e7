@@ -21,10 +21,10 @@ sections:
     icon: true
     light_title: true
     featured_products:
-      - products/wildtree.md
-      - products/natural-feelings.md
-      - products/frida-catlo.md
-      - products/marine-journey.md
+      - products/tees/wildtree.md
+      - products/tees/natural-feelings.md
+      - products/tees/frida-catlo.md
+      - products/tees/marine-journey.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
