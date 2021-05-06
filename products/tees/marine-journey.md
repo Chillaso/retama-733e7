@@ -1,6 +1,6 @@
 ---
 layout: product
-id: '7'
+id: '3'
 price: '8'
 title: MARINE JOURNEY
 description: Fusce sed tortor id diam rhoncus accumsan.

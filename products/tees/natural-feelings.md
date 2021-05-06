@@ -1,6 +1,6 @@
 ---
 layout: product
-id: '3'
+id: '2'
 price: '8'
 title: NATURAL FEELINGS
 description: 'Nulla non pretium metus, vitae finibus lectus.'
