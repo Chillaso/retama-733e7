@@ -6,8 +6,8 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
-default_thumbnail_image: images/tees/c_wildtree_black.jpg
-default_original_image: images/tees/c_wildtree_black.jpg
+default_thumbnail_image: images/tees/t_wildtree_black.jpg
+default_original_image: images/tees/t_wildtree_black.jpg
 featured: true
 order: 1
 category: category/tees.md
@@ -25,7 +25,7 @@ seo:
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
       keyName: property
     - name: 'og:image'
-      value: images/tees/c_wildtree_black.jpg
+      value: images/tees/t_wildtree_black.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
     - name: 'twitter:image'
-      value: images/tees/c_wildtree_black.jpg
+      value: images/tees/t_wildtree_black.jpg
       relativeUrl: true
 price: '8'
 ---
