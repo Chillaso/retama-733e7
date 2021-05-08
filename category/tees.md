@@ -16,7 +16,7 @@ seo:
       value: Diseños echos con cariño y buena vibra
       keyName: property
     - name: 'og:image'
-      value: images/tees/t_wildtree_black.jpg
+      value: images/tees/wildtree/t_wildtree_black.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -26,6 +26,6 @@ seo:
     - name: 'twitter:description'
       value: Diseños echos con cariño y buena vibra
     - name: 'twitter:image'
-      value: images/tees/t_wildtree_black.jpg
+      value: images/tees/wildtree/t_wildtree_black.jpg
       relativeUrl: true
 ---
