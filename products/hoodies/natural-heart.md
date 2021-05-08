@@ -1,15 +1,15 @@
 ---
 layout: product
-id: '7'
+id: '5'
 price: '12'
-title: WILD TREE
+title: NATURAL HEART
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/hoodies/wildtree/h_wildtree_black.jpg
-default_original_image: images/hoodies/wildtree/h_wildtree_black.jpg
+default_thumbnail_image: images/hoodies/natural-heart/h_natural-heart_black.jpg
+default_original_image: images/hoodies/natural-heart/h_natural-heart_black.jpg
 featured: true
-order: 1
+order: 3
 category: category/hoodies.md
 seo:
   title: Vestibulum eget
@@ -25,7 +25,7 @@ seo:
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
       keyName: property
     - name: 'og:image'
-      value: images/hoodies/h_wildtree_black.jpg
+      value: images/hoodies/h_natural-heart_black.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
     - name: 'twitter:image'
-      value: images/hoodies/h_wildtree_black.jpg
+      value: images/hoodies/h_natural-heart_black.jpg
       relativeUrl: true
 ---
 
