@@ -22,9 +22,9 @@ sections:
     light_title: true
     featured_products:
       - products/tees/wildtree.md
-      - products/tees/natural-heart.md
+      - products/tees/frida-catlo.md
       - products/hoodies/wildtree.md
-      - products/bags/bee-free.md
+      - products/bags/frida-catlo.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:

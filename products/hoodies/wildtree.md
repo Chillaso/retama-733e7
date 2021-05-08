@@ -1,8 +1,8 @@
 ---
 layout: product
-id: '6'
+id: '1'
 price: '12'
-title: WILDTREE
+title: WILD TREE
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
