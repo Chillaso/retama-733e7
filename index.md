@@ -22,7 +22,7 @@ sections:
     light_title: true
     featured_products:
       - products/tees/wildtree.md
-      - products/tees/natural-feelings.md
+      - products/tees/natural-heart.md
       - products/hoodies/wildtree.md
       - products/bags/bee-free.md
   - type: featured_categories_section

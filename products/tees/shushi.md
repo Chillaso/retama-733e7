@@ -9,7 +9,7 @@ description: >-
 default_thumbnail_image: images/tees/sushi/t_sushi_red.jpg
 default_original_image: images/tees/sushi/t_sushi_red.jpg
 featured: false
-order: 5
+order: 7
 category: category/tees.md
 seo:
   title: Vestibulum eget

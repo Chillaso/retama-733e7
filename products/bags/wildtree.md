@@ -1,16 +1,16 @@
 ---
 layout: product
-id: '4'
-price: '10'
-title: BEE FREE
+id: '5'
+price: '5'
+title: WILDTREE
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/tees/bee-free/t_bee-free_white.jpg
-default_original_image: images/tees/bee-free/t_bee-free_white.jpg
+default_thumbnail_image: images/bags/b_wildtree_white.jpg
+default_original_image: images/bags/b_wildtree_white.jpg
 featured: false
-order: 2
-category: category/tees.md
+order: 6
+category: category/bags.md
 seo:
   title: Vestibulum eget
   description: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
@@ -25,7 +25,7 @@ seo:
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
       keyName: property
     - name: 'og:image'
-      value: images/tees/bee-free/t_bee-free_white.jpg
+      value: images/bags/b_wildtree_white.jp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
     - name: 'twitter:image'
-      value: images/tees/bee-free/t_bee-free_white.jpg
+      value: images/bags/b_wildtree_white.jp
       relativeUrl: true
 ---
 

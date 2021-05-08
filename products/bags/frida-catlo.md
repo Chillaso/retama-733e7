@@ -1,16 +1,16 @@
 ---
 layout: product
-id: '4'
-price: '10'
-title: BEE FREE
+id: '5'
+price: '5'
+title: FRIDA CATLO
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/tees/bee-free/t_bee-free_white.jpg
-default_original_image: images/tees/bee-free/t_bee-free_white.jpg
-featured: false
-order: 2
-category: category/tees.md
+default_thumbnail_image: images/bags/b_frida-catlo_white.jpg
+default_original_image: images/bags/b_frida-catlo_white.jpg
+featured: true
+order: 1
+category: category/bags.md
 seo:
   title: Vestibulum eget
   description: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
@@ -25,7 +25,7 @@ seo:
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
       keyName: property
     - name: 'og:image'
-      value: images/tees/bee-free/t_bee-free_white.jpg
+      value: images/bags/b_frida-catlo_white.jp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
     - name: 'twitter:image'
-      value: images/tees/bee-free/t_bee-free_white.jpg
+      value: images/bags/b_frida-catlo_white.jp
       relativeUrl: true
 ---
 

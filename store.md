@@ -10,7 +10,7 @@ sections:
     icon: true
     featured_products:
       - products/tees/wildtree.md
-      - products/tees/natural-feelings.md
+      - products/tees/natural-heart.md
       - products/tees/frida-catlo.md
       - products/bags/bee-free.md
   - type: promotion_section

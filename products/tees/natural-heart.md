@@ -7,7 +7,7 @@ description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/tees/natural-heart/t_natural-heart-pocket_red.jpg
 default_original_image: images/tees/natural-heart/t_natural-heart-pocket_red.jpg
 featured: true
-order: 5
+order: 3
 category: category/tees.md
 seo:
   title: Curabitur eu tempor

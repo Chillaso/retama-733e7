@@ -6,7 +6,7 @@ title: MARINE JOURNEY
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/tees/marine-journey/t_marine-journey_blue.jpg
 default_original_image: images/tees/marine-journey/t_marine-journey_blue.jpg
-order: 7
+order: 6
 category: category/tees.md
 seo:
   title: Sed consectetur

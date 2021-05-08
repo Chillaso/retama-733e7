@@ -8,8 +8,8 @@ description: >-
   volutpat massa dolor id purus.
 default_thumbnail_image: images/bags/b_bee-free_white.jpg
 default_original_image: images/bags/b_bee-free_white.jpg
-featured: true
-order: 5
+featured: false
+order: 2
 category: category/bags.md
 seo:
   title: Vestibulum eget

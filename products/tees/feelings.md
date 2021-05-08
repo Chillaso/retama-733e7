@@ -9,7 +9,7 @@ description: >-
 default_thumbnail_image: images/tees/feelings/t_feelings_grey.jpg
 default_original_image: images/tees/feelings/t_feelings_grey.jpg
 featured: false
-order: 5
+order: 4
 category: category/tees.md
 seo:
   title: Vestibulum eget
