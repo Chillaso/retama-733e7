@@ -12,7 +12,7 @@ featured: true
 order: 1
 category: category/tees.md
 seo:
-  title: Nulla suscipit
+  title: WILD TREEE
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'

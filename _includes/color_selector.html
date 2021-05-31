@@ -1,14 +1,16 @@
 {% assign product_page = include.product_page %}
 
 <div class="color__selector">
+    {%if product_page.title == "WILD TREE"%}
     <div class="color__selector--color">
         <svg>
-            <ellipse style="fill: rgba(0,0,0,1);" rx="28.5" ry="28.5" cx="28.5" cy="28.5"></ellipse>
+            <ellipse style="fill: rgba(0,0,0,1);" rx="20" ry="20" cx="20" cy="20"></ellipse>
         </svg>
     </div>
     <div class="color__selector--color">
         <svg>
-            <ellipse style="fill: rgba(0,1,1,1);" rx="28.5" ry="28.5" cx="28.5" cy="28.5"></ellipse>
+            <ellipse style="fill: rgba(0,0,0,1);" rx="20" ry="20" cx="20" cy="20"></ellipse>
         </svg>
     </div>
+    {% endif %}
 </div>
