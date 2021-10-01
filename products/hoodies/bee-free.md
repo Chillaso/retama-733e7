@@ -6,8 +6,8 @@ title: BEE FREE
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/hoodies/bee-free/h_bee-free_blue.jpg
-default_original_image: images/hoodies/bee-free/h_bee-free_blue.jpg
+default_thumbnail_image: images/hoodies/bee-free/bee-free_blue.jpg
+default_original_image: images/hoodies/bee-free/bee-free_blue.jpg
 featured: true
 order: 2
 category: category/hoodies.md
@@ -25,7 +25,7 @@ seo:
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
       keyName: property
     - name: 'og:image'
-      value: images/hoodies/h_bee-free_blue.jpg
+      value: images/hoodies/bee-free_blue.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
     - name: 'twitter:image'
-      value: images/hoodies/h_bee-free_blue.jpg
+      value: images/hoodies/bee-free_blue.jpg
       relativeUrl: true
 ---
 

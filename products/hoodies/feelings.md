@@ -6,8 +6,8 @@ title: FEELINGS
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/hoodies/feelings/h_feelings_blue.jpg
-default_original_image: images/hoodies/feelings/h_feelings_blue.jpg
+default_thumbnail_image: images/hoodies/feelings/feelings_blue.jpg
+default_original_image: images/hoodies/feelings/feelings_blue.jpg
 featured: true
 order: 4
 category: category/hoodies.md
@@ -25,7 +25,7 @@ seo:
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
       keyName: property
     - name: 'og:image'
-      value: images/hoodies/h_feelings_blue.jpg
+      value: images/hoodies/feelings/feelings_blue.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
     - name: 'twitter:image'
-      value: images/hoodies/h_feelings_blue.jpg
+      value: images/hoodies/feelings/feelings_blue.jpg
       relativeUrl: true
 ---
 

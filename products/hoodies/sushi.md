@@ -6,8 +6,8 @@ title: SUSHI TIME
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/hoodies/sushi/h_sushi_black.jpg
-default_original_image: images/hoodies/sushi/h_sushi_black.jpg
+default_thumbnail_image: images/hoodies/sushi/sushi_black.jpg
+default_original_image: images/hoodies/sushi/sushi_black.jpg
 featublack: true
 order: 7
 category: category/hoodies.md
@@ -25,7 +25,7 @@ seo:
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
       keyName: property
     - name: 'og:image'
-      value: images/hoodies/h_sushi_black.jpg
+      value: images/hoodies/sushi/sushi_black.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
     - name: 'twitter:image'
-      value: images/hoodies/h_sushi_black.jpg
+      value: images/hoodies/sushi/sushi_black.jpg
       relativeUrl: true
 ---
 

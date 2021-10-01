@@ -6,8 +6,8 @@ title: NATURAL HEART
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/bags/b_natural-heart_white.jpg
-default_original_image: images/bags/b_natural-heart_white.jpg
+default_thumbnail_image: images/bags/natural-heart_white.jpg
+default_original_image: images/bags/natural-heart_white.jpg
 featured: false
 order: 3
 category: category/bags.md
@@ -25,7 +25,7 @@ seo:
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
       keyName: property
     - name: 'og:image'
-      value: images/bags/b_natural-heart_white.jp
+      value: images/bags/natural-heart_white.jp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
     - name: 'twitter:image'
-      value: images/bags/b_natural-heart_white.jp
+      value: images/bags/natural-heart_white.jp
       relativeUrl: true
 ---
 

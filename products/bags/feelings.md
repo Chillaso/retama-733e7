@@ -6,8 +6,8 @@ title: FEELINGS
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/bags/b_feelings_white.jpg
-default_original_image: images/bags/b_feelings_white.jpg
+default_thumbnail_image: images/bags/feelings_white.jpg
+default_original_image: images/bags/feelings_white.jpg
 featured: false
 order: 5
 category: category/bags.md
@@ -25,7 +25,7 @@ seo:
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
       keyName: property
     - name: 'og:image'
-      value: images/bags/b_feelings_white.jp
+      value: images/bags/feelings_white.jp
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
     - name: 'twitter:image'
-      value: images/bags/b_feelings_white.jp
+      value: images/bags/feelings_white.jp
       relativeUrl: true
 ---
 

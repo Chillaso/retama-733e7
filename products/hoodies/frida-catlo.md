@@ -6,8 +6,8 @@ title: FRIDA CATLO
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/hoodies/frida-catlo/h_frida-catlo_white.jpg
-default_original_image: images/hoodies/frida-catlo/h_frida-catlo_white.jpg
+default_thumbnail_image: images/hoodies/frida-catlo/frida-catlo_white.jpg
+default_original_image: images/hoodies/frida-catlo/frida-catlo_white.jpg
 featured: true
 order: 5
 category: category/hoodies.md
@@ -25,7 +25,7 @@ seo:
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
       keyName: property
     - name: 'og:image'
-      value: images/hoodies/h_frida-catlo_white.jpg
+      value: images/hoodies/frida-catlo/frida-catlo_white.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
     - name: 'twitter:image'
-      value: images/hoodies/h_frida-catlo_white.jpg
+      value: images/hoodies/frida-catlo/frida-catlo_white.jpg
       relativeUrl: true
 ---
 
