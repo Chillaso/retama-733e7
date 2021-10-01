@@ -11,6 +11,9 @@ default_original_image: images/tees/bee-free/t_bee-free_white.jpg
 featured: false
 order: 2
 category: category/tees.md
+colors:
+  - color: rgba(255,255,255,0)
+  - color: rgba(0,0,0,1)
 seo:
   title: Vestibulum eget
   description: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'

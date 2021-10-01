@@ -11,6 +11,14 @@ default_original_image: images/tees/wildtree/t_wildtree_black.jpg
 featured: true
 order: 1
 category: category/tees.md
+price: '10'
+colors:
+  - color: rgba(0,0,0,1) #black
+    altName: black
+  - color: rgba(255,0,0,1) #red
+    altName: red
+  - color: rgba(255,255,255,0.50) #white
+    altName: white
 seo:
   title: WILD TREEE
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
@@ -37,7 +45,6 @@ seo:
     - name: 'twitter:image'
       value: images/tees/wildtree/t_wildtree_black.jpg
       relativeUrl: true
-price: '10'
 ---
 
 # Nulla suscipit
