@@ -11,6 +11,11 @@ default_original_image: images/hoodies/sushi/sushi_black.jpg
 featublack: true
 order: 7
 category: category/hoodies.md
+colors:
+  - color: rgba(0,0,0,1)
+    altName: black
+  - color: rgba(255,255,255,0)
+    altName: white
 seo:
   title: Vestibulum eget
   description: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'

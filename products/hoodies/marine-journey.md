@@ -11,6 +11,11 @@ default_original_image: images/hoodies/marine-journey/marine-journey_blue.jpg
 featured: true
 order: 6
 category: category/hoodies.md
+colors:
+  - color: rgba(75, 152, 180, 0.8)
+    altName: blue
+  - color: rgba(255,255,255,0)
+    altName: white
 seo:
   title: Vestibulum eget
   description: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
