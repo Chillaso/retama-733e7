@@ -11,6 +11,15 @@ default_original_image: images/tees/feelings/feelings_grey.jpg
 featured: false
 order: 4
 category: category/tees.md
+colors:
+  - color: rgba(255,255,255,0)
+    altName: white
+  - color: rgba(0,0,0,1)
+    altName: black
+  - color: rgba(8, 68, 10, 0.83)
+    altName: green
+  - color: rgba(86, 126, 142, 0.8)
+    altName: grey
 seo:
   title: Vestibulum eget
   description: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'

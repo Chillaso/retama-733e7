@@ -4,11 +4,18 @@ id: '2'
 price: '10'
 title: NATURAL HEART
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/tees/natural-heart/natural-heart-pocket_red.jpg
-default_original_image: images/tees/natural-heart/natural-heart-pocket_red.jpg
+default_thumbnail_image: images/tees/natural-heart/natural-heart_red.jpg
+default_original_image: images/tees/natural-heart/natural-heart_red.jpg
 featured: true
 order: 3
 category: category/tees.md
+colors:
+  - color: rgba(255,255,255,0)
+    altName: white
+  - color: rgba(0,0,0,1)
+    altName: black
+  - color: rgba(156, 0, 0, 0.8)
+    altName: red
 seo:
   title: Curabitur eu tempor
   description: 'Nulla non pretium metus, vitae finibus lectus'
@@ -23,7 +30,7 @@ seo:
       value: 'Nulla non pretium metus, vitae finibus lectus'
       keyName: property
     - name: 'og:image'
-      value: images/tees/natural-heart/natural-heart-pocket_red.jpg
+      value: images/tees/natural-heart/natural-heart_red.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -33,7 +40,7 @@ seo:
     - name: 'twitter:description'
       value: 'Nulla non pretium metus, vitae finibus lectus'
     - name: 'twitter:image'
-      value: images/tees/natural-heart/natural-heart-pocket_red.jpg
+      value: images/tees/natural-heart/natural-heart_red.jpg
       relativeUrl: true
 ---
 

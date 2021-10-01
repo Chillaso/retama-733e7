@@ -13,12 +13,14 @@ order: 1
 category: category/tees.md
 price: '10'
 colors:
-  - color: rgba(0,0,0,1) #black
-    altName: black
-  - color: rgba(255,0,0,1) #red
-    altName: red
-  - color: rgba(255,255,255,0.50) #white
+  - color: rgba(255,255,255,0)
     altName: white
+  - color: rgba(0,0,0,1)
+    altName: black
+  - color: rgba(156, 0, 0, 0.8)
+    altName: red
+  - color: rgba(7, 69, 12, 0.91)
+    altName: green
 seo:
   title: WILD TREEE
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'

@@ -11,6 +11,13 @@ default_original_image: images/tees/sushi/sushi_red.jpg
 featured: false
 order: 7
 category: category/tees.md
+colors:
+  - color: rgba(255,255,255,0)
+    altName: white
+  - color: rgba(0,0,0,1)
+    altName: black
+  - color: rgba(156, 0, 0, 0.8)
+    altName: red
 seo:
   title: Vestibulum eget
   description: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'

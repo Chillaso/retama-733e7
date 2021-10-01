@@ -13,7 +13,13 @@ order: 2
 category: category/tees.md
 colors:
   - color: rgba(255,255,255,0)
+    altName: white
   - color: rgba(0,0,0,1)
+    altName: black
+  - color: rgba(156, 0, 0, 0.8)
+    altName: red
+  - color: rgba(86, 126, 142, 0.8)
+    altName: grey
 seo:
   title: Vestibulum eget
   description: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'

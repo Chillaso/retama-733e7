@@ -11,6 +11,9 @@ default_original_image: images/tees/frida-catlo/frida-catlo_white.jpg
 featured: true
 order: 5
 category: category/tees.md
+colors:
+  - color: rgba(255,255,255,0)
+    altName: white
 seo:
   title: Vestibulum eget
   description: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'

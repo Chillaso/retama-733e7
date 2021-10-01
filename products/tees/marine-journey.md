@@ -8,6 +8,13 @@ default_thumbnail_image: images/tees/marine-journey/marine-journey_blue.jpg
 default_original_image: images/tees/marine-journey/marine-journey_blue.jpg
 order: 6
 category: category/tees.md
+colors:
+  - color: rgba(255,255,255,0)
+    altName: white
+  - color: rgba(18, 47, 110, 0.83)
+    altName: blue
+  - color: rgba(34, 169, 172, 0.83)
+    altName: turqoise
 seo:
   title: Sed consectetur
   description: Fusce sed tortor id diam rhoncus accumsan
