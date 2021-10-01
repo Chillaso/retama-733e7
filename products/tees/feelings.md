@@ -6,8 +6,8 @@ title: FEELINGS
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/tees/feelings/t_feelings_grey.jpg
-default_original_image: images/tees/feelings/t_feelings_grey.jpg
+default_thumbnail_image: images/tees/feelings/feelings_grey.jpg
+default_original_image: images/tees/feelings/feelings_grey.jpg
 featured: false
 order: 4
 category: category/tees.md
@@ -25,7 +25,7 @@ seo:
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
       keyName: property
     - name: 'og:image'
-      value: images/tees/feelings/t_feelings_grey.jpg
+      value: images/tees/feelings/feelings_grey.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
     - name: 'twitter:image'
-      value: images/tees/feelings/t_feelings_grey.jpg
+      value: images/tees/feelings/feelings_grey.jpg
       relativeUrl: true
 ---
 

@@ -6,8 +6,8 @@ title: SUSHI
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/tees/sushi/t_sushi_red.jpg
-default_original_image: images/tees/sushi/t_sushi_red.jpg
+default_thumbnail_image: images/tees/sushi/sushi_red.jpg
+default_original_image: images/tees/sushi/sushi_red.jpg
 featured: false
 order: 7
 category: category/tees.md
@@ -25,7 +25,7 @@ seo:
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
       keyName: property
     - name: 'og:image'
-      value: images/tees/sushi/t_sushi_red.jpg
+      value: images/tees/sushi/sushi_red.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
     - name: 'twitter:image'
-      value: images/tees/sushi/t_sushi_red.jpg
+      value: images/tees/sushi/sushi_red.jpg
       relativeUrl: true
 ---
 
