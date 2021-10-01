@@ -66,3 +66,9 @@ window.addEventListener('resize', function () {
     closeHamburgerMenu();
   }
 }, true);
+
+
+document.querySelectorAll(".color__selector--color").forEach(function(colorSelector){
+  //Define a click event handler for each color selector
+  colorSelector.addEventListener("click", changeColor);
+});

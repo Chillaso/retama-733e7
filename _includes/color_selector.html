@@ -3,11 +3,10 @@
 <div class="color__selector">
     {%if product_page.colors %}
         {% for color in product_page.colors %}
-            <div class="color__selector--color">
+            <div class="color__selector--color" data-item-altname="{{ color.altName }}" data-item-category="{{ product_page.category }}">
                 <svg>
                     <ellipse style="fill: {{ color.color }}; stroke: black; stroke-width: 0.5;" 
-                             rx="20" ry="20" cx="22" cy="22"
-                             data="{{ color.altName }}"></ellipse>
+                             rx="20" ry="20" cx="22" cy="22"></ellipse>
                 </svg>
             </div>
         {% endfor %}
